@@ -1472,7 +1472,26 @@ a:focus {
 	border-top: 1px solid #ccc;
 	border-bottom: 1px solid #ccc;
 }
-
+/*  newss ecommerse kle lea add keya      */
+.pricing-table .newss {
+	background-color: #eee;
+	height: 120px;
+	color: #222;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 800;
+	line-height: 120px;
+	border-top: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+}
+.price-row .newss span {
+	font-size: 40px;
+}
+.price-row .newss sup {
+    top: -30px;
+	font-size: 20px;
+	font-weight: 300;
+}
+/*   yaha sea upr tak*/
 .price-row .price span {
 	font-size: 75px;
 }
