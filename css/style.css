@@ -45,7 +45,7 @@ Tags: responsive, premium template, html5 template, one page, landing page, busi
    01. GENERAL & BASIC STYLES
    ========================================================================== */
 
-#content_wrapper  {
+   #content_wrapper  {
 	overflow: hidden;
 }
 
@@ -1602,7 +1602,7 @@ a:focus {
    ========================================================================== */
 
 #testimonials {
-	background-color: #f5f5f5; 
+	background-color: #e7d6d6;
 	border-top: 1px solid #eee;
 	border-bottom: 1px solid #eee;
 	padding-top: 80px;
